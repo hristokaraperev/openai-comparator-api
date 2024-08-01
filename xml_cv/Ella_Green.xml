@@ -1,0 +1,76 @@
+<cv>
+    <name>Ella Green</name>
+    <title>Software Engineer | Web Application Development</title>
+    <contact>
+        <email>help@enhancv.com</email>
+        <linkedin>linkedin.com</linkedin>
+        <location>Dallas, Texas</location>
+    </contact>
+    <summary>
+        <paragraph>Passionate software engineer with 1 year of experience in web application development. Proficient in debugging, helping elevate user experience, and streamline internal processes. Achieved 30% efficiency increase on project delivery times.</paragraph>
+    </summary>
+    <experience>
+        <job>
+            <title>Junior Software Engineer</title>
+            <company>IBM</company>
+            <dates>2020 - 2021</dates>
+            <location>Austin, Texas</location>
+            <responsibilities>
+                <responsibility>Collaborated on the development of a management system which reduced bug fix times by 20%.</responsibility>
+                <responsibility>Assisted in the maintenance and improvement of company codebase, leading to a 15% increase in efficiency.</responsibility>
+                <responsibility>Utilized analytical skills in solving technical issues, resulting in a 30% reduction in client complaints.</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Software Development Intern</title>
+            <company>Texas Instruments</company>
+            <dates>2019 - 2020</dates>
+            <location>Dallas, Texas</location>
+            <responsibilities>
+                <responsibility>Improved the existing testing processes, which reduced software defects by 25%.</responsibility>
+                <responsibility>Worked on bug fixes and improved system performance, resulting in a 10% increase in user satisfaction scores.</responsibility>
+                <responsibility>Collaborated with a team in the development of a new data processing software, used by over 1000 users.</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Computer Science Tutor</title>
+            <company>University of Texas</company>
+            <dates>2018 - 2019</dates>
+            <location>Austin, Texas</location>
+            <responsibilities>
+                <responsibility>Provided tutoring services to 50+ students per week, helping improve their understanding of algorithm development.</responsibility>
+                <responsibility>Developed and implemented a new tracking system for tutoring appointments, increasing efficiency by 35%.</responsibility>
+                <responsibility>Assisted students with software development projects, contributing to a 20% improvement in their grades.</responsibility>
+            </responsibilities>
+        </job>
+    </experience>
+    <education>
+        <degree>Bachelor's in Software Engineering</degree>
+        <institution>University of Texas</institution>
+        <dates>2014 - 2018</dates>
+        <location>Austin, Texas</location>
+    </education>
+    <strengths>
+        <strength>Analytical and Problem-Solving Skills: Used problem-solving skills to debug and enhance applications, leading to 10% increased user satisfaction at Texas Instruments.</strength>
+        <strength>Teamwork and Collaboration: Worked in collaborative settings consistently, driving a 20% decrease in bug fix times during tenure at IBM.</strength>
+        <strength>Action Oriented: Proactive approach led to the development of a new tracking system for tutoring appointments, increasing efficiency by 35%.</strength>
+    </strengths>
+    <skills>
+        <skill>Web Application Development</skill>
+        <skill>Software Debugging</skill>
+        <skill>Problem Solving</skill>
+        <skill>Teamwork</skill>
+        <skill>Java</skill>
+        <skill>Python</skill>
+        <skill>JavaScript</skill>
+    </skills>
+    <certifications>
+        <certification>Advanced Java Programming: Completed a certification course provided by Oracle University.</certification>
+        <certification>Python for Data Science: Completed a certification course provided by IBM.</certification>
+    </certifications>
+    <passions>
+        <passion>Mentoring: I enjoy contributing to the learning journey of others and fostering a spirit of continuous learning.</passion>
+        <passion>Coding Challenges: Participates in coding challenges regularly to refine technical skills and stay updated with the latest programming trends.</passion>
+    </passions>
+</cv>
+    

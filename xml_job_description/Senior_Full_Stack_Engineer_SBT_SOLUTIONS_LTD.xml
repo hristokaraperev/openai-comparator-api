@@ -1,0 +1,59 @@
+<jobDescription>
+    <title>Senior Full Stack Engineer</title>
+    <companyStory>
+        <paragraph>We specialize in software engineering, platform engineering and digital products focusing on niche markets and products. We deliver a full range of 360-degree business strategies in positioning, developing, and investing in customers’ products in the best possible way.</paragraph>
+    </companyStory>
+    <role>
+        <paragraph>We are looking for passionate Senior Full Stack Developer to bolster the teams responsible for building the full range of services supporting our digital entertainment platform. You will be involved in various aspects of the product:</paragraph>
+        <responsibilities>
+            <responsibility>Payments processing</responsibility>
+            <responsibility>Customer engagement tools</responsibility>
+        </responsibilities>
+    </role>
+    <journey>
+        <task>Completing complex tasks autonomously within the estimated time frame.</task>
+        <task>Actively participating in the team's software design discussions to uphold high architecture standards and ensure projects are properly scoped.</task>
+        <task>Mentoring your junior team members to improve their code's quality.</task>
+        <task>Helping junior team members to complete their tasks in order to deliver pending releases on time.</task>
+        <task>Performing regular code reviews to ensure compliance with established software architecture good practices.</task>
+        <task>Communicating your ideas clearly within your own team both written and verbally and contributing to technical and sprint documentation.</task>
+    </journey>
+    <background>
+        <requirement>4 years of development experience in OOP in Java EE</requirement>
+        <requirement>Expertise in building cloud-native applications with Quarkus</requirement>
+        <requirement>Deep understanding in software architecture and design principles</requirement>
+        <requirement>2 years of experience with relational database systems, schema design and SQL</requirement>
+        <requirement>Experience with PostgreSQL and GraphQL is considered an advantage.</requirement>
+        <requirement>Experience writing unit/integration/e2e tests.</requirement>
+        <requirement>Experience with distributed systems, cloud computing services (like GCP and AWS), K8s</requirement>
+        <requirement>Familiarity with .NET Core is considered an advantage.</requirement>
+        <requirement>2 years of experience in front end development</requirement>
+        <requirement>Proficiency in developing UI components with React framework.</requirement>
+        <requirement>Hands-on experience with ES6 and TypeScript</requirement>
+        <requirement>Experience with testing frameworks like enzyme, jest</requirement>
+        <requirement>Experience with node.js</requirement>
+    </background>
+    <personalExpectations>
+        <expectation>Communication skills</expectation>
+        <expectation>Analytical thinking</expectation>
+        <expectation>Problem solving</expectation>
+        <expectation>Familiarity with the agile development framework and scrum</expectation>
+        <expectation>Ability to inspire teammates to meet deadlines.</expectation>
+        <expectation>Attention to detail.</expectation>
+        <expectation>Fluent English.</expectation>
+    </personalExpectations>
+    <whyLoveItHere>
+        <benefit>Our Sofia office is a hub of creativity and collaboration, set in an A-class environment.</benefit>
+        <benefit>We offer a permanent contract, ensuring stability and long-term growth.</benefit>
+        <benefit>Our team is international, diverse, and united by a shared passion for excellence.</benefit>
+        <benefit>From the moment you join, you'll benefit from a seamless onboarding process and regular training sessions.</benefit>
+        <benefit>We believe in continuous learning, providing access to hundreds of Udemy courses.</benefit>
+        <benefit>Our compensation package is designed to be both attractive and motivating, with performance-based bonuses.</benefit>
+        <benefit>Enjoy comprehensive health insurance, including dental care and optical benefits.</benefit>
+        <benefit>Take advantage of 25 days of paid annual leave, plus fun team-building events.</benefit>
+        <benefit>Additional perks include Multisport and Coolfit cards, food vouchers, life insurance, and free refreshments at the office.</benefit>
+    </whyLoveItHere>
+    <callToAction>
+        <paragraph>Ready to Embark on This Journey? If this sounds like the perfect opportunity for you, send us your CV today!</paragraph>
+    </callToAction>
+</jobDescription>

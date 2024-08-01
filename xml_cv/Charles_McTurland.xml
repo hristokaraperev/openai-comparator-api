@@ -1,0 +1,66 @@
+<resume>
+    <name>Charles McTurland</name>
+    <title>Software Engineer</title>
+    <contact>
+        <email>cmcturland@email.com</email>
+        <phone>(123) 456-7890</phone>
+        <location>New York, NY</location>
+        <linkedin>http://linkedin.com/in/charles-mcturland</linkedin>
+    </contact>
+    <education>
+        <degree>B.S. Computer Science</degree>
+        <institution>University of Pittsburgh</institution>
+        <dates>September 2008 - April 2012</dates>
+        <location>Pittsburgh, PA</location>
+    </education>
+    <skills>
+        <skill>Python (Django)</skill>
+        <skill>Javascript (NodeJS ReactJS, jQuery)</skill>
+        <skill>SQL (MySQL, PostgreSQL, NoSQL)</skill>
+        <skill>HTML5/CSS</skill>
+        <skill>AWS</skill>
+        <skill>Unix, Git</skill>
+    </skills>
+    <experience>
+        <job>
+            <title>Software Engineer</title>
+            <company>Embark</company>
+            <dates>January 2015 - current</dates>
+            <location>New York, NY</location>
+            <responsibilities>
+                <responsibility>Worked with product managers to re-architect a multi-page web app into a single page web-app, boosting yearly revenue by $1.4M</responsibility>
+                <responsibility>Constructed the logic for a streamlined ad-serving platform that scaled to our 35M users, which improved the page speed by 15% after implementation</responsibility>
+                <responsibility>Tested software for bugs and operating speed, fixing bugs and documenting processes to increase efficiency by 18%</responsibility>
+                <responsibility>Iterated platform for college admissions, collaborating with a group of 4 engineers to create features across the software</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Software Engineer</title>
+            <company>MarketSmart</company>
+            <dates>April 2012 - January 2015</dates>
+            <location>Washington, DC</location>
+            <responsibilities>
+                <responsibility>Built RESTful APIs that served data to the JavaScript front-end based on dynamically chosen user inputs that handled over 500,000 concurrent users</responsibility>
+                <responsibility>Built internal tool using NodeJS and Pupeteer.js to automate QA and monitoring of donor-facing web app, which improved CTR by 3%</responsibility>
+                <responsibility>Reviewed code and conducted testing for 3 additional features on donor-facing web app that increased contributions by 12%</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Software Engineer Intern</title>
+            <company>Marketing Science Company</company>
+            <dates>April 2011 - March 2012</dates>
+            <location>Pittsburgh, PA</location>
+            <responsibilities>
+                <responsibility>Partnered with a developer to implement RESTful APIs in Django, enabling analytics team to increase reporting speed by 24%</responsibility>
+                <responsibility>Using Selenium I built out a unit testing infrastructure for a client application that reduced the number of bugs reported by the client by 11% month over month</responsibility>
+            </responsibilities>
+        </job>
+    </experience>
+    <projects>
+        <project>
+            <name>Poker Simulation</name>
+            <description>Built a full-stack web app to allow users to simulate and visualize outcomes of poker hands against opponents of different play styles using open source cards.js on the front-end</description>
+            <technologies>Utilized sci-kit learn in Python to simulate possible outcomes under different scenarios that the user chose</technologies>
+        </project>
+    </projects>
+</resume>

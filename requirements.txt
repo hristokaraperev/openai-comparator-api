@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-sqlalchemy
-databases
+sqlalchemy==1.4.53
+databases==0.8.0
 aiosqlite
 pydantic
 openai
+python-multipart

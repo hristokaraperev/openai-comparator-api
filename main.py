@@ -48,7 +48,7 @@ async def upload_cv(file: UploadFile = File(...)):
 
         content = ""
         for page in pdf_reader.pages:
-            content += page.extract_text()
+            content += page.extract_text() + "\n"
     # get the summary
     summary = json.dumps(await generate_skill_summary(content))
     # get CV JSON
@@ -115,15 +115,15 @@ async def rank_cvs(request: RankRequest):
 
 
 @app.post("/generate_skill_summary/")
-async def generate_skill_summary(request: str = Body(..., media_type='text/plain')):
-    cv_text = request
+async def generate_skill_summary(cv_text: str = Body(..., media_type='text/plain')):
     system_msg = "You are very experienced HR, who can write very good summaries of CV outlining the following " \
                  "things: candidate location (location field, city and country. if unknown just leave empty), " \
                  "overall experience in years (overall_experience field), consulting experience in years " \
                  "(consulting_experience field), summary of the CV (summary field), role category (role_category " \
                  "field), specialty (specialty field), seniority (seniority field), the knowledge domains "\
-                 "(knowledge_domains field, comma separated - extract the knowledge domains from the experience " \
-                 "including projects and applications developed), soft skills (soft_skills field, comma separated) " \
+                 "(knowledge_domains field, comma separated - extract what industries the applicant has knowledge " \
+                 "from the experience including projects and applications developed), soft skills " \
+                 "(soft_skills field, comma separated) " \
                  "and tech skills (tech_skills field, comma separated). Include facts which exist in the CV only. " \
                  f"Do not make up things. Current year is {datetime.now().year}."
     user_msg = f"Following is a CV text:\n{cv_text}\nWrite a summary of the above CV and output it in JSON object. "\
